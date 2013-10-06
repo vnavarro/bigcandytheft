@@ -1,2 +1,0 @@
- -DHXCPP_CLANG="1" -Ddesktop="1" -Dflixel="1" -Dhaxe3="1" -Dhaxe_release="1" -Dhaxe_ver="3.01" -Dmac="1" -Dopenfl="1" -Dopenfl-native="1" -Dopenfl_native="1" -Dopenfl_ver="1.0.10" -Dtools="1"
-/usr/lib/haxe/lib/hxcpp/3,0,2/
