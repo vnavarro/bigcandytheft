@@ -1,0 +1,14 @@
+-main ApplicationMain 
+-lib openfl
+-lib openfl-native
+-lib flixel
+-cp source
+-D tools=1
+-D openfl_ver=1.0.10
+-D openfl
+-D HXCPP_CLANG=1
+-D mac
+-D desktop
+-cp export/mac/cpp/haxe
+-cpp export/mac/cpp/obj/
+--macro allowPackage("flash")
